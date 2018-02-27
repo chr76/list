@@ -1,1 +1,3 @@
-# Yet another todo list frontend
+# TODO list
+
+Yet another todo list frontend
